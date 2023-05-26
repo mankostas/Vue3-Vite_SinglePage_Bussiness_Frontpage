@@ -1,0 +1,14 @@
+/* Copyright Cannibal_Athens (http://www.fonts.gr) */
+
+
+
+@font-face {
+    font-family: 'cf_asty_stdlight';
+    src: url('cfastystd-light-webfont.eot');
+    src: url('cfastystd-light-webfont.eot?#iefix') format('embedded-opentype'),
+         url('cfastystd-light-webfont.woff2') format('woff2'),
+         url('cfastystd-light-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
