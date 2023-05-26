@@ -1,6 +1,6 @@
-# real-world-vue
+# Vue3 + Vite Single Page
 
-This template should help get you started developing with Vue 3 in Vite.
+This a simple single page for Business presentation
 
 ## Recommended IDE Setup
 
